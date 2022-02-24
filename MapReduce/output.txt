@@ -1,0 +1,15 @@
+"!"	1
+"Dit"	1
+"Hello"	1
+"Wordcount"	1
+"World,"	1
+"een"	1
+"file"	1
+"hello"	2
+"het"	1
+"is"	1
+"om"	1
+"te"	1
+"testen"	1
+"voorbeeld"	2
+"world,"	2
